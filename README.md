@@ -1,5 +1,4 @@
-Project name: 
-   ##Hello World
+##Project name: Hello World
 
 
 Description:
